@@ -1,0 +1,22 @@
+/*
+
+{
+    "url_init":"https://your_api_url",
+    "methods":["methodname1","methodname2"],
+    "values_methods":{
+        "methodname1":["value1","value2","value3","value4"],
+        "methodname2":["value1","value2","value3"]
+    }
+}
+*/
+
+
+
+{
+    "url_init":"https://your_api_url",
+    "methods":["methodname1","methodname2"],
+    "values_methods":{
+        "methodname1":["value1","value2","value3","value4"],
+        "methodname2":["value1","value2","value3"]
+    }
+}
