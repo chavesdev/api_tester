@@ -1,5 +1,6 @@
 {
     "url_init":"https://your_api_url",
+    "types":["POST","GET"],
     "methods":["methodname1","methodname2"],
     "values_methods":{
         "methodname1":["value1","value2","value3","value4"],

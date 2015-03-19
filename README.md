@@ -1,4 +1,4 @@
-# Api_tester
+# ApiTester
 Easy way to test your APIs in your own server, config based on json file
 
 # Config
@@ -7,6 +7,7 @@ Go on the config.json file and change the values according to your application
 
     {
         "url_init":"https://your_api_url",
+        "types":["POST","GET"],
         "methods":["methodname1","methodname2"],
         "values_methods":{
             "methodname1":["value1","value2","value3","value4"],
