@@ -34,7 +34,7 @@ change_method_name = function(index,config){
 
 populate_form = function(config){
     var form_api = new_input_model('URL','text','url_api','',config.url_init,'disabled=disabled');
-    form_api += new_select_model('MÃ©todos',config.methods,'methods','');
+    form_api += new_select_model('Métodos',config.methods,'methods','');
     $('form#api_test').append(form_api);
 
     $("select[name=methods]").change(function(){
