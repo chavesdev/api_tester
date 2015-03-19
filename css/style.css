@@ -1,0 +1,34 @@
+*{
+    margin: 0 auto;
+    padding: 5px;
+}
+
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url("Roboto-Light.ttf");
+}
+
+body{
+    font-size: 16px;
+    font-family: 'Roboto-Light';
+}
+
+
+input{
+    font-size: 16px;
+    font-family: 'Roboto-Light';
+    width: 70%;
+}
+
+#api_test{
+    width: 700px;
+}
+
+#api_test label{
+    width: 100%;
+    float: left;
+}
+span.title_input{
+    font-size: 16px;
+    text-transform: uppercase;
+}
