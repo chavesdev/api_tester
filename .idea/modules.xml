@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/../../my_projects/API_tester/.idea/API_tester.iml" filepath="$PROJECT_DIR$/../../my_projects/API_tester/.idea/API_tester.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/API_tester.iml" filepath="$PROJECT_DIR$/.idea/API_tester.iml" />
+>>>>>>> 2745eebd3c7e683e1f3520d0165169db74234109
     </modules>
   </component>
 </project>
